@@ -56,6 +56,8 @@ StackOverflowBuddy::giveThanksFor('substringBetweenTwoStrings');
   string(35) "https://stackoverflow.com/a/9826656"
 */
 ```
+### What if StackOverflowBuddy can't find any good code for my method?
+In the incredibly unlikely (ok... maybe not *incredibly unlikely*) event that StackOverflowBuddy can't find any code that meets your request, it'll throw you a `HaveToWriteYourOwnCodeException` to keep you busy. 
 
 ### Warning-ware
 You're free to use this package, but if it makes it to your production environment you accept the responsibility of personally telling each of your users that they would be better off hiding their data under their mattress.

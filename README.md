@@ -1,6 +1,6 @@
 # Stack Overflow Buddy
 
-Inspired by the revolutionary work done by @drathier at https://github.com/drathier/stack-overflow-import, Stack Overflow Buddy is your own personal PHP based Stack Overflow assistant! 
+Inspired by the revolutionary work done by @drathier and their [stack-overflow-import](https://github.com/drathier/stack-overflow-import), Stack Overflow Buddy is your own personal PHP based Stack Overflow assistant! 
 
 Why spend your valuable time cutting and pasting from StackOverflow when Stack Overflow Buddy can do it for you? Who wouldn't trade all safety checks and only the basest of functionality checks for a bit of convenience?
 

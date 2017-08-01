@@ -1,5 +1,6 @@
 {
-    "description": "StackOverflow Code Finder",
+    "name":"brandonshar/stack-overflow-buddy",
+    "description": "A friendly, error prone coding companion",
     "require": {
         "php": ">=7",
         "nikic/php-parser": "^3.1",

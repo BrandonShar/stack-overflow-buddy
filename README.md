@@ -30,9 +30,9 @@ If you're impressed, you should probably stop reading here.
 3. Grab the top scoring answers for those questions
 4. Pull any and all code blocks from those answers
 5. Find the first code block that:
-  1. Inteprets without error
-  2. Contains one or more functions
-  3. One of the functions has the same amount of arguments as were passed by the user
+   1. Inteprets without error
+   2. Contains one or more functions
+   3. One of the functions has the same amount of arguments as were passed by the user
 6. Then we throw caution to the wind, eval, and call the new method!
 
 ### Wow, this will change my workflow forever!

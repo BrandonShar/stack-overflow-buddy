@@ -3,7 +3,10 @@
 Inspired by the revolutionary work done by @drathier and their [stack-overflow-import](https://github.com/drathier/stack-overflow-import), Stack Overflow Buddy is your own personal PHP based Stack Overflow assistant! 
 
 Why spend your valuable time cutting and pasting from StackOverflow when Stack Overflow Buddy can do it for you? Who wouldn't trade all safety checks and only the basest of functionality checks for a bit of convenience?
-
+### Installation 
+```
+composer require brandonshar/stack-overflow-buddy
+```
 ### What's it do?
 
 Just give it a try!
@@ -13,7 +16,7 @@ StackOverflowBuddy::mergeSort([2,3,1,4]);
 // [1, 2, 3, 4]
 ```
 
-Impressed? 
+*Impressed?* 
 
 How about 
 
@@ -49,10 +52,7 @@ StackOverflowBuddy::giveThanksFor('substringBetweenTwoStrings');
   string(35) "https://stackoverflow.com/a/9826656"
 */
 ```
-### Installation 
-```
-composer require brandonshar/stack-overflow-buddy
-```
+
 ### Warning-ware
 You're free to use this package, but if it makes it to your production environment you accept the responsibility of personally telling each of your users that they would be better off hiding their data under their mattress.
 

@@ -7,6 +7,10 @@ Why spend your valuable time cutting and pasting from StackOverflow when Stack O
 ```
 composer require brandonshar/stack-overflow-buddy
 ```
+```php
+# and in your files you use it
+use brandonshar\StackOverflowBuddy;
+```
 ### What's it do?
 
 Just give it a try!

@@ -12,6 +12,9 @@ class CodeFinder
         $this->api = StackOverflowBuddy::$api;
 
         ZttpResponse::macro('collect', function () {
+            if (!array_key_exists('items', $this->json())) {
+                throw new HaveToWriteYourOwnCodeException('Looks like the stackexchange api is tired of helping you');
+            }
             return collect($this->json()['items']);
         });
     }

@@ -60,12 +60,12 @@ StackOverflowBuddy::giveThanksFor('substringBetweenTwoStrings');
 ---
 
 ### What if StackOverflowBuddy can't find any good code for my method?
-In the incredibly unlikely (ok... maybe not *incredibly unlikely*) event that StackOverflowBuddy can't find any code that meets your request, it'll throw you a `HaveToWriteYourOwnCodeException` to keep you busy. 
+In the incredibly unlikely (ok... maybe not *incredibly unlikely*) event that StackOverflowBuddy can't find any code that meets your request, it'll throw you a `HaveToWriteYourOwnCodeException` to keep you busy while hopefully someone else gives a better answer on Stack Overflow. 
 
 ---
 
 ### Testimonials
-If you're still on the fence, don't take my word for it: here's what a satisifed reader of the code had to say:
+If you're still on the fence, don't take my word for it; here's what a satisifed reader of the code had to say:
 > "I love how this makes on the fly software updates really easy. If I ever need to tweak an algorithm or fix a bug, I just need to submit a really good answer to stack overflow with the updated code. Goodbye source control!"
 
 > \- [Pseudofailure](https://www.reddit.com/r/PHP/comments/6qzuzj/just_released_a_package_to_cut_out_the/dl1ejwg/)

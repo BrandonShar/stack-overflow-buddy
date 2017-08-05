@@ -7,6 +7,11 @@ Why spend your valuable time cutting and pasting from StackOverflow when Stack O
 ```
 composer require brandonshar/stack-overflow-buddy
 ```
+Because Stack Overflow Buddy uses untagged libraries, you may need to add the following lines to your composer root
+```
+"minimum-stability": "dev",
+"prefer-stable": true
+```
 ```php
 # and in your files you use it
 use brandonshar\StackOverflowBuddy;

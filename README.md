@@ -52,7 +52,7 @@ If you're impressed, you should probably stop reading here.
 It certainly will. But don't forget to use some of that time you're saving to thank the original author of the code you've now absorbed.
 
 ```php
-StackOverflowBuddy::giveThanksFor('substringBetweenTwoStrings');
+var_dump(StackOverflowBuddy::giveThanksFor('substringBetweenTwoStrings'));
 /*
 ["author"]=>
   string(18) "Alejandro Iglesias"
